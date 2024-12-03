@@ -1,1 +1,3 @@
+Hello **Anne**, 
 
+We understand your desire to enroll in the summer interview preparation course; however, you were unable to do so by the deadline. Since there is already a significant waitlist and the class is filled, we are unable to accept your application at this time. We are aware that you will be graduating this spring and will not be able to reapply for the course the following year. In order to help you with your internship applications after graduation, we are sharing with you our [high-level software interview guide](http://tinyurl.com/codepathinterviewguide), which includes advice and guidelines. Additionally, you can subscribe to our mailing list in case we offer any upcoming virtual events or courses that you might find interesting.
