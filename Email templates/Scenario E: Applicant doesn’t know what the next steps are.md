@@ -10,7 +10,7 @@ For the complete details of the step by step process just click [here](https://c
 
 The following class schedule for the course is also available: 
 
-Intermediate (WEB 102):
+**Intermediate (WEB 102):**
 * Section 1 - 02/22 to 04/26 
   Saturdays from 10:00 AM to 12:00 PM PT
 
