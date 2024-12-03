@@ -1,1 +1,3 @@
+Hey **Jane**, 
 
+We appreciate you taking the time to complete the prework, and your efforts have been acknowledged. We recognize how excited you are to start the course. Unfortunately, though, you are not currently enrolled in a US college or institution, thus you are ineligible. You must be enrolled at a US university listed on our [web page](https://www.codepath.org/courses) as one of the requirements for this course. We would love to review your application, but at this time, we can only consider students who are enrolled at our partner universities. You may be confident that we will notify you when the course becomes available in your country.
