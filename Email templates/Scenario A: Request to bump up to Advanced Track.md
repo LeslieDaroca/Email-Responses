@@ -1,3 +1,11 @@
-Hello **John**, 
+Hi **John**,
 
-Thank you for getting in touch. Although you only qualify for the beginner track based on your prework score, we appreciate your desire to be moved to the advanced track. Without overloading you, we want to better equip you with a curriculum that is appropriate for your level. Please take this into consideration.
+Thanks for reaching out and sharing your thoughts. I really appreciate how eager you are to take on the advanced track—it shows your determination and drive, which are amazing qualities.
+
+After looking at your prework score, we feel that the beginner track would be the best starting point for you. Our goal is to make sure you’re not overwhelmed and that you’re set up for success with a solid foundation. We genuinely want to see you grow and thrive at a pace that works for you.
+
+We hope you can understand our decision, and we’re confident this approach will help you thrive. If you’d like to discuss this further or share your thoughts, please don’t hesitate to reach out.
+
+Best regards,
+
+**Leslie from CodePath Admissions**
