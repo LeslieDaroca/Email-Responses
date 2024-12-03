@@ -1,3 +1,12 @@
-Hello **Dennis**, 
+Hi **Dennis**,
 
-I appreciate you getting in touch. We recognize that approximately three weeks ago, you fulfilled all of the prerequisites for the tech fellow. Although we recognize that you are eager to begin the program, we are still looking for another tech fellow applicant because the standards must be met by at least two tech fellow applicants from the same school. We kindly ask for your patience as the waiting procedure could take nearly a month. As soon as we find another tech fellow who will be able to complete the requirements, we will get back to you.
+Thanks so much for reaching out! I appreciate you completing all the prerequisites for the Tech Fellow program and can see how excited you are to get started. I understand the anticipation—it’s a great opportunity.
+
+Right now, we’re still waiting to find another Tech Fellow applicant from your school, as the program needs at least two people from the same school to move forward. I know this isn’t ideal, and I’m grateful for your patience. It could take up to a month, but we’ll be in touch as soon as we find another applicant who meets the requirements.
+
+Thanks again for your understanding. If you have any questions or just want to check in, don’t hesitate to reach out—I’m here to help!
+
+
+Best regards,
+
+**Leslie from CodePath Admissions**
